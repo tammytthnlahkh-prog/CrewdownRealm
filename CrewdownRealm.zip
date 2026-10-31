@@ -1,6 +1,1 @@
-unzip -q CrewdownRealm.zip
-cp -r SkeldArena/. .
-rm -rf SkeldArena CrewdownRealm.zip
-git add -A
-git commit -m "crewdown"
-git push
+
